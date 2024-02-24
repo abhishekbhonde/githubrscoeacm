@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+    padding: 20px 50px;
+    background: #24292e; /* GitHub theme background color */
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  }
+  
+  ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  li {
+    margin-left: 20px;
+  }
+  
+  a {
+    color: #ffffff; /* White text color */
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    color: #f0f6fc; /* Lighter color on hover */
+  }
+  
