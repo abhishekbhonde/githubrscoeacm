@@ -36,7 +36,7 @@ const About = () => {
         <h2>✌️ Topics Covered:</h2>
           <p>
             
-         <li> ntroduction to version control and Git</li>
+         <li> Introduction to version control and Git</li>
          <li> Understanding GitHub: Repositories, branches, pull requests, and more</li>
          <li> Benefits of open source software and contributing to projects</li>
          <li> Hands-on activities and demonstrations</li>
@@ -55,9 +55,9 @@ This session is open to all students interested in learning about GitHub and ope
           <h2> 🤗 About Session</h2>
           <p>
           Title: Introduction to GitHub and Open Source <br /> <br />
-          Date: [Insert Date]<br /> <br />
-          Time: [Insert Time]<br /> <br />
-          Location: [Insert Location/Online Platform]<br /> <br />
+          Date: 1 Aug 2023<br /> <br />
+          Time: 9.00 AM<br /> <br />
+          Location: MBA SEMINAR HALL, RSCOE<br /> <br />
 
           In this session, we will deep dive into the world of GitHub and open source software. Open source has become an integral part of the software development ecosystem, empowering developers to collaborate, innovate, and contribute to projects of all sizes. Whether you're new to GitHub or looking to expand your understanding of open source principles, this session is for you!
           </p>

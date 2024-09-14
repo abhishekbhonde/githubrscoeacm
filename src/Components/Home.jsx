@@ -18,7 +18,7 @@ function App() {
       <div className="quote">
         <h2>GitHub and <br></br> Open Source Quote</h2>
         <p>"Your code becomes better if you contribute to open source. It’s an amazing feeling to know that your code is being used by developers all over the world."</p>
-        <p>- John Doe</p>
+        <p></p>
         <Music audioRef={audioRef} />
       <audio ref={audioRef} src={sound2} preload="auto"></audio>
       </div>
@@ -43,19 +43,19 @@ function App() {
             <div className='learning1'>
                 <img src={second} alt="" />
                 <h2>OPEN SOURCE</h2>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium eos maxime officiis laborum odio ipsam assumenda repudiandae iure. Explicabo maxime eos placeat soluta perspiciatis voluptatum velit, distinctio quasi magni dolorum reprehenderit, tempora architecto facere. Aliquid voluptates reiciendis dolores numquam dolorum?
+                <p>Open source contributions involve actively participating in the development and improvement of publicly available software projects. This includes writing code, fixing bugs, and enhancing documentation. Contributors collaborate with the community, share their expertise, and help advance technology in a shared, transparent environment.
                 </p>
             </div>
             <div className='learning1'>
                 <img src={third} alt="" />
                 <h2>GIT AND GITHUB</h2>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium eos maxime officiis laborum odio ipsam assumenda repudiandae iure. Explicabo maxime eos placeat soluta perspiciatis voluptatum velit, distinctio quasi magni dolorum reprehenderit, tempora architecto facere. Aliquid voluptates reiciendis dolores numquam dolorum?
+                <p>Git is a version control system that tracks changes in code, enabling collaboration and history management. GitHub is a platform that hosts Git repositories, offering tools for collaboration, code review, and project management. Together, they facilitate team workflows, version tracking, and open-source contributions.
                 </p>
             </div>
             <div className='learning1'>
                 <img src={first} alt="" />
                 <h2>CONTRIBUTIONS</h2>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium eos maxime officiis laborum odio ipsam assumenda repudiandae iure. Explicabo maxime eos placeat soluta perspiciatis voluptatum velit, distinctio quasi magni dolorum reprehenderit, tempora architecto facere. Aliquid voluptates reiciendis dolores numquam dolorum?
+                <p>Contributions make an impact by improving software quality, adding new features, and fixing bugs. They help enhance documentation, streamline processes, and foster community collaboration. Each contribution advances the project, drives innovation, and benefits users globally by addressing needs and optimizing performance.
                 </p>
             </div>
            
